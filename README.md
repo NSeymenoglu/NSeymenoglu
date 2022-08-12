@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nihat, a jr. frond-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Nihat, a jr. front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🧠 I’m currently learning React.  
